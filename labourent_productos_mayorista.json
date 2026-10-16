@@ -7,7 +7,7 @@
     "precio": 39900,
     "categoria": "Sérum",
     "descripcion": "",
-    "imagen": "",
+    "imagen": "img/skink/SKIN1004-65.jpg",
     "agotado": false,
     "nuevo": false,
     "preventa": false,
@@ -35,7 +35,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
-    "ficha": "img/fichas/SKIN1004-5.png"
+    "ficha": "img/fichas/SKIN1004-5.jpg"
   },
   {
     "id": "SKIN1004-66",
@@ -128,7 +128,7 @@
     "precio": 102000,
     "categoria": "Sets y Kits",
     "descripcion": "",
-    "imagen": "",
+    "imagen": "img/skink/SKIN1004-88.webp",
     "agotado": false,
     "nuevo": false,
     "preventa": false,
@@ -221,7 +221,7 @@
       "Protección Solar"
     ],
     "ficha": "img/fichas/DR-ALTHEA4.png",
-    "video": "img/videos/DR-ALTHEA4.mp4"
+    "video": "img/videos/Dr-Althea4.mp4"
   },
   {
     "id": "DR-ALTHEA23",
@@ -231,7 +231,7 @@
     "precio": 38000,
     "categoria": "Hidratación",
     "descripcion": "La Crema 147 Barrier es un tratamiento avanzado de cuidado de la piel diseñado para fortalecer la barrera cutánea, proporcionar nutrición y garantizar una hidratación profunda. Su formulación está enriquecida con ingredientes que refuerzan la función protectora de la piel. Ingredientes claves: Niacinamida, ceramidas, centella asiática, aceite de macadamia, ácido hialurónico. 147 Barrier Cream (Crema protectora 147)",
-    "imagen": "",
+    "imagen": "img/skink/DR-ALTHEA23.jpg",
     "agotado": false,
     "nuevo": false,
     "preventa": false,
@@ -285,7 +285,7 @@
       "Piel Sensible y Calmante"
     ],
     "ficha": "img/fichas/DR-ALTHEA1.png",
-    "video": "img/videos/DR-ALTHEA1.mp4"
+    "video": "img/videos/Dr-Althea1.mp4"
   },
   {
     "id": "DR-ALTHEA15",
@@ -456,7 +456,7 @@
       "Piel Sensible y Calmante"
     ],
     "ficha": "img/fichas/MEDICUBE18.png",
-    "video": "img/videos/MEDICUBE18.mp4"
+    "video": "img/videos/Medicube18.mp4"
   },
   {
     "id": "MEDICUBE21",
@@ -477,7 +477,7 @@
       "Hidratación Profunda"
     ],
     "ficha": "img/fichas/MEDICUBE21.png",
-    "video": "img/videos/MEDICUBE21.mp4"
+    "video": "img/videos/Medicube21.mp4"
   },
   {
     "id": "MEDICUBE22",
@@ -799,7 +799,7 @@
       "Piel Sensible y Calmante"
     ],
     "ficha": "img/fichas/CELI-01.png",
-    "video": "img/videos/CELI-01.mp4"
+    "video": "img/videos/Celi-01.mp4"
   },
   {
     "id": "CELI-02",
@@ -840,7 +840,7 @@
       "Piel Sensible y Calmante"
     ],
     "ficha": "img/fichas/KAHI-01.png",
-    "video": "img/videos/KAHI-01.mp4"
+    "video": "img/videos/Kahi-01.mp4"
   },
   {
     "id": "TOCOBO7",
@@ -926,7 +926,7 @@
       "Protección Solar"
     ],
     "ficha": "img/fichas/TOCOBO32.png",
-    "video": "img/videos/TOCOBO32.mp4"
+    "video": "img/videos/Tocobo32.mp4"
   },
   {
     "id": "TOCOBO33",
@@ -967,7 +967,7 @@
       "Protección Solar"
     ],
     "ficha": "img/fichas/TOCOBO39.png",
-    "video": "img/videos/TOCOBO39.mp4"
+    "video": "img/videos/Tocobo39.mp4"
   },
   {
     "id": "TOCOBO48",
@@ -981,8 +981,7 @@
     "colores": [
       "img/skink/TOCOBO48_1.webp",
       "img/skink/TOCOBO48_2.webp",
-      "img/skink/TOCOBO48_3.webp",
-      "img/skink/TOCOBO48_4.jpg"
+      "img/skink/TOCOBO48_3.webp"
     ],
     "agotado": false,
     "nuevo": false,
@@ -993,7 +992,7 @@
       "Protección Solar"
     ],
     "ficha": "img/fichas/TOCOBO48.png",
-    "video": "img/videos/TOCOBO48.mp4"
+    "video": "img/videos/Tocobo48.mp4"
   },
   {
     "id": "TOCOBO31",
@@ -1015,7 +1014,7 @@
       "Protección Solar"
     ],
     "ficha": "img/fichas/TOCOBO31.png",
-    "video": "img/videos/TOCOBO31.mp4"
+    "video": "img/videos/Tocobo31.mp4"
   },
   {
     "id": "TOCOBO38",
@@ -1141,7 +1140,7 @@
       "Piel Sensible y Calmante"
     ],
     "ficha": "img/fichas/BIODANCE2.png",
-    "video": "img/videos/BIODANCE2.mp4"
+    "video": "img/videos/Biodance2.mp4"
   },
   {
     "id": "BIODANCE3",
